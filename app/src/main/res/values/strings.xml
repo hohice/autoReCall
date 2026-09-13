@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">自动接听</string>
+    <string name="call_log_title">接听记录</string>
+
+    <string name="monitor_switch_label">启用通话监听（前台服务）</string>
+    <string name="mode_label">自动接听模式</string>
+    <string name="mode_blacklist">黑名单模式（仅黑名单号码自动接听）</string>
+    <string name="mode_whitelist">白名单模式（非黑名单号码自动接听）</string>
+
+    <string name="blacklist_label">黑名单号码</string>
+    <string name="blacklist_number_hint">输入电话号码</string>
+    <string name="add">添加</string>
+    <string name="delete">删除</string>
+    <string name="open_call_log">查看接听记录</string>
+    <string name="clear_call_log">清空记录</string>
+    <string name="call_log_empty">暂无接听记录</string>
+
+    <string name="service_running">通话监听服务运行中</string>
+    <string name="service_started">通话监听已启动</string>
+    <string name="service_stopped">通话监听已停止</string>
+
+    <string name="number_empty">请输入电话号码</string>
+
+    <string name="permission_required_title">需要权限</string>
+    <string name="permission_required_message">自动接听需要电话相关权限才能正常工作，请在弹窗中允许全部权限。</string>
+    <string name="permission_permanently_denied_message">权限已被拒绝且不再弹出请求，请到系统设置中为「自动接听」手动开启电话相关权限。</string>
+    <string name="permission_grant">去授权</string>
+    <string name="permission_denied_hint">缺少必要权限，自动接听功能不可用</string>
+    <string name="open_settings">打开设置</string>
+    <string name="cancel">取消</string>
+</resources>
